@@ -56,5 +56,5 @@ Este menú facilita la navegación y el acceso rápido a las funcionalidades pri
 
 [![Mira la demostración del menú aquí](https://img.youtube.com/vi/FShXvWYThK4/0.jpg)](https://youtu.be/FShXvWYThK4)
 
-![Pantalla principal](./screenshots/pantalla_principal.png)
+![Pantalla principal](./screenshots/capturadepantallaapp.png)
 
