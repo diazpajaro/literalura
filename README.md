@@ -54,7 +54,7 @@ Este menú facilita la navegación y el acceso rápido a las funcionalidades pri
 
 ## Demostración 🎥
 
-[![Mira la demostración del menú aquí](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+[![Mira la demostración del menú aquí](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/FShXvWYThK4))
 
 ![Pantalla principal](./screenshots/pantalla_principal.png)
 
